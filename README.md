@@ -1,6 +1,16 @@
 # fold3Dplot_jupyter
-graphical viewer of the alphafold results in jupyter notebook
-This is a jupyter notebook that draws the same figure as colabfold(https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) from the result of alphafold run on the local machine.
+Graphical viewer of the alphafold results in jupyter notebook.
+
+This is a jupyter notebook that draws the same figure as ColabFold (https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) from the result of AlphaFold (https://github.com/deepmind/alphafold) run on the local machine.
+
+### Requirements
++ numpy
++ pickle
++ py3Dmol
++ matplotlib.pyplot
++ ipywidgets
++ alphafold
++ jupyter-notebook
 
 ### 3D plot on jupyter notebook
 put `fold3Dplot.ipynb` in the result directory of alphafold.
@@ -24,4 +34,4 @@ python3 save_foldplot.py alphafold_results_directory
 saved coverage_lDDT.png and PAE.png
 
 
-#### These were created using the colabfold code as a reference. Thank you very much.
+#### These were created using the ColabFold code as a reference. I would like to thank the ColabFold.
