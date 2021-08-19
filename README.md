@@ -26,6 +26,10 @@ jupyter-notebook
 Open fold3Dplot.ipynb on jupyter and run.
 The display changes interactively when the parameters are changed.
 
+![af](https://user-images.githubusercontent.com/1720098/130024182-d9659b44-00a9-4c5d-9947-00bdf02c5280.png)
+
+
+
 ### Save graphs
 If you want to save the plddt and pae graphs,
 ```
