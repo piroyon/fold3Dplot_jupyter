@@ -9,7 +9,7 @@ This is a jupyter notebook that draws the same figure as ColabFold (https://cola
 + py3Dmol
 + matplotlib.pyplot
 + ipywidgets
-+ alphafold (for save graphs (coverage_lDDT.png and PAE.png) only)
++ alphafold (only for save graphs (coverage_lDDT.png and PAE.png))
 + jupyter-notebook
 
 ### 3D plot on jupyter notebook
